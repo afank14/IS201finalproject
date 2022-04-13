@@ -1,0 +1,45 @@
+/*Alex Fankhauser | Last edited 4/12/22*/
+.letsgo{
+    border-style: double;
+    border-width: 10px;
+    border-color: rgb(#fff);
+}
+
+.links{
+        display: block;
+        font-size: 1rem;
+        font-weight: 400;
+        padding-top: 20px;
+}
+
+.Pictures{
+    padding-left: 100px;
+}
+
+.letsgo2{
+    text-align: center;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-color: rgb(71, 68, 68);
+}
+
+.button{
+    font-style: italic;
+    font-weight: bold;
+    border-bottom-style: ridge;
+    border-color: black;
+}
+
+ol{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+ul{
+    color: darkslategrey;
+    font-weight: 600;
+    font-size: medium;
+}
+
